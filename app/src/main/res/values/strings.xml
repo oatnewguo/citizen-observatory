@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Citizen Observatory</string>
+    <string name="text_intro">Welcome to Citizen Observatory! By using this app, you can participate
+        in the scientific process and help determine whether or not the Sun\'s size fluctuates over
+        time. We aim to measure this by having scientists like you record the duration of eclipses
+        from different locations along the path of the eclipse, which we can use alongside other
+        measurements we know, such as the size of the Moon and the distance between the Earth and
+        the Moon, to calculate the size of the Sun over periods of time. We\'ll send you
+        notifications when eclipses are coming up, and you\'ll see some cool sights in space and
+        be a researcher at the same time!</string>
+    <string name="text_intro_instructions">Eclipse coming up? Press the button to begin!</string>
+    <string name="text_general_instructions">Press the two buttons below to record your data! You
+        will be guided through the process. Be ready to record video before the eclipse begins. You
+        can record your location before or after, as long as you remain in the same place.</string>
+    <string name="text_send_instructions">Double check that your data is correct below, and press
+        the send results button when you\'re ready to email it to our team. You did it! Thank you!
+        </string>
+    <string name="text_location_instructions">Enter your current latitude and longitude, as
+        precisely as possible. A good way to do this is to open the Google Maps app (by pressing the
+        button below), press and hold on the blue dot indicating your current location until a red
+        pin pops up, and then look in the search bar at the top of the screen to find your
+        coordinates. The first number is your latitude, and the second is longitude. Make sure that
+        Google Maps has you in the right place! Copy your coordinates into the boxes below, and
+        press the continue button.</string>
+    <string name="text_video_instructions">Press the button below to open a video camera. Before the
+        eclipse begins, begin taking a video, and make sure that the phone is pointed at the eclipse
+        and recording when totality (when the Moon totally covers the Sun) begins. Keep the video
+        running, and make sure that the phone is pointed at the eclipse and recording when totality
+        ends. Where it points in between doesn\'t matter, but keep it running so that we can find the
+        exact duration of totality later. When you\'ve finished recording, there will be a check mark
+        in the top right corner of your screen. Press that, and it will bring you back to this
+        screen! Press the continue button to finish.</string>
+    <string name="text_latitude">Latitude:</string>
+    <string name="text_longitude">Longitude:</string>
+    <string name="text_location">Location:</string>
+    <string name="button_begin">Begin</string>
+    <string name="button_location">Record Location</string>
+    <string name="button_video">Record Video</string>
+    <string name="button_send">Send Results</string>
+    <string name="button_google_maps">Google Maps</string>
+    <string name="button_submit">Submit</string>
+</resources>
